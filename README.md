@@ -1,2 +1,1 @@
 # python_assignment_week04_sec2
-hello
